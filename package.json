@@ -1,0 +1,23 @@
+{
+  "name": "pigateway",
+  "version": "1.0.0",
+  "description": "bla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilharj/pigateway.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilharj/pigateway/issues"
+  },
+  "homepage": "https://github.com/guilharj/pigateway#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.14",
+    "mqtt": "^2.8.1"
+  }
+}
